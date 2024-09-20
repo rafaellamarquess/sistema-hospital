@@ -22,6 +22,8 @@ public class DAOFactory {
     public static PacienteDAO getPacienteDAO() {
         return pacienteDAO;
     }
+    
+    
 
     // O método getConvenioDAO() retorna um objeto ConvenioDAO que pode ser usado para realizar operações de acesso ao banco
    // de dados para a tabela Convenio.

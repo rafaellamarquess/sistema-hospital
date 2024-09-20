@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/catspajamas/Documents/senac/senactec/SistemaHospitalar/src/dao/DAOFactory.java</file>
-            <file>file:/home/catspajamas/Documents/senac/senactec/SistemaHospitalar/src/persistencia/ConexaoBanco.java</file>
-            <file>file:/home/catspajamas/Documents/senac/senactec/SistemaHospitalar/src/dao/PacienteDAO.java</file>
-            <file>file:/home/catspajamas/Documents/senac/senactec/SistemaHospitalar/src/dao/ConvenioDAO.java</file>
+            <file>file:/home/catspajamas/Documents/senac/senac-tecnico/SistemaHospitalar/src/dao/PacienteDAO.java</file>
+            <file>file:/home/catspajamas/Documents/senac/senac-tecnico/SistemaHospitalar/test/servicos/PacienteServicosTest.java</file>
+            <file>file:/home/catspajamas/Documents/senac/senac-tecnico/SistemaHospitalar/src/servicos/PacienteServicos.java</file>
         </group>
     </open-files>
 </project-private>
